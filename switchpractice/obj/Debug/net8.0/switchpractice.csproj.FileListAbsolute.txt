@@ -1,0 +1,14 @@
+C:\csharp studying\switchpractice\bin\Debug\net8.0\switchpractice.exe
+C:\csharp studying\switchpractice\bin\Debug\net8.0\switchpractice.deps.json
+C:\csharp studying\switchpractice\bin\Debug\net8.0\switchpractice.runtimeconfig.json
+C:\csharp studying\switchpractice\bin\Debug\net8.0\switchpractice.dll
+C:\csharp studying\switchpractice\bin\Debug\net8.0\switchpractice.pdb
+C:\csharp studying\switchpractice\obj\Debug\net8.0\switchpractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp studying\switchpractice\obj\Debug\net8.0\switchpractice.AssemblyInfoInputs.cache
+C:\csharp studying\switchpractice\obj\Debug\net8.0\switchpractice.AssemblyInfo.cs
+C:\csharp studying\switchpractice\obj\Debug\net8.0\switchpractice.csproj.CoreCompileInputs.cache
+C:\csharp studying\switchpractice\obj\Debug\net8.0\switchpractice.dll
+C:\csharp studying\switchpractice\obj\Debug\net8.0\refint\switchpractice.dll
+C:\csharp studying\switchpractice\obj\Debug\net8.0\switchpractice.pdb
+C:\csharp studying\switchpractice\obj\Debug\net8.0\switchpractice.genruntimeconfig.cache
+C:\csharp studying\switchpractice\obj\Debug\net8.0\ref\switchpractice.dll
