@@ -1,0 +1,15 @@
+C:\csharp studying\toplevelfunctions\bin\Debug\net8.0\toplevelfunctions.exe
+C:\csharp studying\toplevelfunctions\bin\Debug\net8.0\toplevelfunctions.deps.json
+C:\csharp studying\toplevelfunctions\bin\Debug\net8.0\toplevelfunctions.runtimeconfig.json
+C:\csharp studying\toplevelfunctions\bin\Debug\net8.0\toplevelfunctions.dll
+C:\csharp studying\toplevelfunctions\bin\Debug\net8.0\toplevelfunctions.pdb
+C:\csharp studying\toplevelfunctions\obj\Debug\net8.0\toplevelfunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp studying\toplevelfunctions\obj\Debug\net8.0\toplevelfunctions.AssemblyInfoInputs.cache
+C:\csharp studying\toplevelfunctions\obj\Debug\net8.0\toplevelfunctions.AssemblyInfo.cs
+C:\csharp studying\toplevelfunctions\obj\Debug\net8.0\toplevelfunctions.csproj.CoreCompileInputs.cache
+C:\csharp studying\toplevelfunctions\obj\Debug\net8.0\toplevelfunctions.sourcelink.json
+C:\csharp studying\toplevelfunctions\obj\Debug\net8.0\toplevelfunctions.dll
+C:\csharp studying\toplevelfunctions\obj\Debug\net8.0\refint\toplevelfunctions.dll
+C:\csharp studying\toplevelfunctions\obj\Debug\net8.0\toplevelfunctions.pdb
+C:\csharp studying\toplevelfunctions\obj\Debug\net8.0\toplevelfunctions.genruntimeconfig.cache
+C:\csharp studying\toplevelfunctions\obj\Debug\net8.0\ref\toplevelfunctions.dll

@@ -1,0 +1,15 @@
+C:\csharp studying\exceptionpractice\bin\Debug\net8.0\exceptionpractice.exe
+C:\csharp studying\exceptionpractice\bin\Debug\net8.0\exceptionpractice.deps.json
+C:\csharp studying\exceptionpractice\bin\Debug\net8.0\exceptionpractice.runtimeconfig.json
+C:\csharp studying\exceptionpractice\bin\Debug\net8.0\exceptionpractice.dll
+C:\csharp studying\exceptionpractice\bin\Debug\net8.0\exceptionpractice.pdb
+C:\csharp studying\exceptionpractice\obj\Debug\net8.0\exceptionpractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp studying\exceptionpractice\obj\Debug\net8.0\exceptionpractice.AssemblyInfoInputs.cache
+C:\csharp studying\exceptionpractice\obj\Debug\net8.0\exceptionpractice.AssemblyInfo.cs
+C:\csharp studying\exceptionpractice\obj\Debug\net8.0\exceptionpractice.csproj.CoreCompileInputs.cache
+C:\csharp studying\exceptionpractice\obj\Debug\net8.0\exceptionpractice.sourcelink.json
+C:\csharp studying\exceptionpractice\obj\Debug\net8.0\exceptionpractice.dll
+C:\csharp studying\exceptionpractice\obj\Debug\net8.0\refint\exceptionpractice.dll
+C:\csharp studying\exceptionpractice\obj\Debug\net8.0\exceptionpractice.pdb
+C:\csharp studying\exceptionpractice\obj\Debug\net8.0\exceptionpractice.genruntimeconfig.cache
+C:\csharp studying\exceptionpractice\obj\Debug\net8.0\ref\exceptionpractice.dll

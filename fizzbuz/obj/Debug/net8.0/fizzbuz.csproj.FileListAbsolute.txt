@@ -1,0 +1,15 @@
+C:\csharp studying\fizzbuz\obj\Debug\net8.0\fizzbuz.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp studying\fizzbuz\obj\Debug\net8.0\fizzbuz.AssemblyInfoInputs.cache
+C:\csharp studying\fizzbuz\obj\Debug\net8.0\fizzbuz.AssemblyInfo.cs
+C:\csharp studying\fizzbuz\obj\Debug\net8.0\fizzbuz.csproj.CoreCompileInputs.cache
+C:\csharp studying\fizzbuz\obj\Debug\net8.0\fizzbuz.sourcelink.json
+C:\csharp studying\fizzbuz\bin\Debug\net8.0\fizzbuz.exe
+C:\csharp studying\fizzbuz\bin\Debug\net8.0\fizzbuz.deps.json
+C:\csharp studying\fizzbuz\bin\Debug\net8.0\fizzbuz.runtimeconfig.json
+C:\csharp studying\fizzbuz\bin\Debug\net8.0\fizzbuz.dll
+C:\csharp studying\fizzbuz\bin\Debug\net8.0\fizzbuz.pdb
+C:\csharp studying\fizzbuz\obj\Debug\net8.0\fizzbuz.dll
+C:\csharp studying\fizzbuz\obj\Debug\net8.0\refint\fizzbuz.dll
+C:\csharp studying\fizzbuz\obj\Debug\net8.0\fizzbuz.pdb
+C:\csharp studying\fizzbuz\obj\Debug\net8.0\fizzbuz.genruntimeconfig.cache
+C:\csharp studying\fizzbuz\obj\Debug\net8.0\ref\fizzbuz.dll

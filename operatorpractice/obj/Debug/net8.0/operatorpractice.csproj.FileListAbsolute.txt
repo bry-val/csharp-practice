@@ -1,0 +1,15 @@
+C:\csharp studying\operatorpractice\bin\Debug\net8.0\operatorpractice.exe
+C:\csharp studying\operatorpractice\bin\Debug\net8.0\operatorpractice.deps.json
+C:\csharp studying\operatorpractice\bin\Debug\net8.0\operatorpractice.runtimeconfig.json
+C:\csharp studying\operatorpractice\bin\Debug\net8.0\operatorpractice.dll
+C:\csharp studying\operatorpractice\bin\Debug\net8.0\operatorpractice.pdb
+C:\csharp studying\operatorpractice\obj\Debug\net8.0\operatorpractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp studying\operatorpractice\obj\Debug\net8.0\operatorpractice.AssemblyInfoInputs.cache
+C:\csharp studying\operatorpractice\obj\Debug\net8.0\operatorpractice.AssemblyInfo.cs
+C:\csharp studying\operatorpractice\obj\Debug\net8.0\operatorpractice.csproj.CoreCompileInputs.cache
+C:\csharp studying\operatorpractice\obj\Debug\net8.0\operatorpractice.sourcelink.json
+C:\csharp studying\operatorpractice\obj\Debug\net8.0\operatorpractice.dll
+C:\csharp studying\operatorpractice\obj\Debug\net8.0\refint\operatorpractice.dll
+C:\csharp studying\operatorpractice\obj\Debug\net8.0\operatorpractice.pdb
+C:\csharp studying\operatorpractice\obj\Debug\net8.0\operatorpractice.genruntimeconfig.cache
+C:\csharp studying\operatorpractice\obj\Debug\net8.0\ref\operatorpractice.dll

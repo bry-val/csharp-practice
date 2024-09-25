@@ -1,0 +1,15 @@
+C:\csharp studying\timestables\bin\Debug\net8.0\timestables.exe
+C:\csharp studying\timestables\bin\Debug\net8.0\timestables.deps.json
+C:\csharp studying\timestables\bin\Debug\net8.0\timestables.runtimeconfig.json
+C:\csharp studying\timestables\bin\Debug\net8.0\timestables.dll
+C:\csharp studying\timestables\bin\Debug\net8.0\timestables.pdb
+C:\csharp studying\timestables\obj\Debug\net8.0\timestables.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp studying\timestables\obj\Debug\net8.0\timestables.AssemblyInfoInputs.cache
+C:\csharp studying\timestables\obj\Debug\net8.0\timestables.AssemblyInfo.cs
+C:\csharp studying\timestables\obj\Debug\net8.0\timestables.csproj.CoreCompileInputs.cache
+C:\csharp studying\timestables\obj\Debug\net8.0\timestables.sourcelink.json
+C:\csharp studying\timestables\obj\Debug\net8.0\timestables.dll
+C:\csharp studying\timestables\obj\Debug\net8.0\refint\timestables.dll
+C:\csharp studying\timestables\obj\Debug\net8.0\timestables.pdb
+C:\csharp studying\timestables\obj\Debug\net8.0\timestables.genruntimeconfig.cache
+C:\csharp studying\timestables\obj\Debug\net8.0\ref\timestables.dll
