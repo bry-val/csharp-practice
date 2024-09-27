@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timestables", "timestables\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buggedapp", "buggedapp\buggedapp.csproj", "{69F71D95-98B8-41F3-B3CC-B48B295BFD5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hotreload", "hotreload\hotreload.csproj", "{097FC8AC-6F3E-439D-B951-AE5D4E6C0928}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{69F71D95-98B8-41F3-B3CC-B48B295BFD5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69F71D95-98B8-41F3-B3CC-B48B295BFD5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69F71D95-98B8-41F3-B3CC-B48B295BFD5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{097FC8AC-6F3E-439D-B951-AE5D4E6C0928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097FC8AC-6F3E-439D-B951-AE5D4E6C0928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{097FC8AC-6F3E-439D-B951-AE5D4E6C0928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097FC8AC-6F3E-439D-B951-AE5D4E6C0928}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
