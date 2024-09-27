@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buggedapp", "buggedapp\bugg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hotreload", "hotreload\hotreload.csproj", "{097FC8AC-6F3E-439D-B951-AE5D4E6C0928}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "debugtrace", "debugtrace\debugtrace.csproj", "{A848DC1E-EDF3-44D4-A7A3-C9F874FA18B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{097FC8AC-6F3E-439D-B951-AE5D4E6C0928}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{097FC8AC-6F3E-439D-B951-AE5D4E6C0928}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{097FC8AC-6F3E-439D-B951-AE5D4E6C0928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A848DC1E-EDF3-44D4-A7A3-C9F874FA18B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A848DC1E-EDF3-44D4-A7A3-C9F874FA18B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A848DC1E-EDF3-44D4-A7A3-C9F874FA18B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A848DC1E-EDF3-44D4-A7A3-C9F874FA18B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
