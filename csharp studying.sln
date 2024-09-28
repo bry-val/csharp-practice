@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calclib", "calclib\calclib.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calclibUnitTests", "calclibUnitTests\calclibUnitTests.csproj", "{EC966AF6-09D4-42C4-867D-FDDD72220430}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "callstackhandlinglib", "callstackhandlinglib\callstackhandlinglib.csproj", "{CA476D9D-8DB4-4474-84D8-9082F68B77CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "callstackhandling", "callstackhandling\callstackhandling.csproj", "{E46530EC-D6C6-4A75-B3F9-97BD26D6EB53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{EC966AF6-09D4-42C4-867D-FDDD72220430}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC966AF6-09D4-42C4-867D-FDDD72220430}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC966AF6-09D4-42C4-867D-FDDD72220430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA476D9D-8DB4-4474-84D8-9082F68B77CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA476D9D-8DB4-4474-84D8-9082F68B77CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA476D9D-8DB4-4474-84D8-9082F68B77CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA476D9D-8DB4-4474-84D8-9082F68B77CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E46530EC-D6C6-4A75-B3F9-97BD26D6EB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E46530EC-D6C6-4A75-B3F9-97BD26D6EB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E46530EC-D6C6-4A75-B3F9-97BD26D6EB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E46530EC-D6C6-4A75-B3F9-97BD26D6EB53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
