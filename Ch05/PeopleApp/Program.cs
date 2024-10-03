@@ -1,5 +1,8 @@
 ﻿using Packt.Shared;
 
+//named Tuple
+using Fruit = (string Name, int Number);
+
 ConfigureConsole();
 
 /// Practicing with OOP and generics
@@ -62,3 +65,45 @@ BankAccount gerrierAccount = new()
 Console.WriteLine($"{jonesAccount.AccountName} earned {(jonesAccount.Balance * BankAccount.InterestRate):C} interest.");
 Console.WriteLine($"{gerrierAccount.AccountName} earned {(gerrierAccount.Balance * BankAccount.InterestRate):C} interest.");
 
+// Book book = new()
+// {
+//     Isbn = "952-5259366655",
+//     Title = "C# 12"
+// };
+
+// Console.WriteLine($"{book.Title} written by {book.Author}");
+
+// initializing fields with constructors
+Person blankP = new();
+Person blankQ = new(initialName: "Arthur", "Gazebo");
+
+Console.WriteLine($"{blankP.Name} of Planet {blankP.HomePlanet} created on {blankP.Instantiated:D}");
+Console.WriteLine($"{blankQ.Name} of Planet {blankQ.HomePlanet} created on {blankQ.Instantiated:D}");
+
+// init with constructor
+Book book = new(isbn: "978-9874165", title: "Witcher 3") 
+{ 
+    Author = "Bryan B", 
+    PageCount = 45 
+};
+
+bool isFat;
+
+bob.WriteToConsole();
+Console.WriteLine(bob.GetOrigin());
+Console.WriteLine(bob.GetOrigin(height: 12, great: true, fat: out isFat));
+
+Console.WriteLine($"Is Bob fat? {isFat}");
+Console.WriteLine(bob.GetOrigin(height: 12, great: false, fat: out isFat));
+Console.WriteLine($"Is Bob fat? {isFat}");
+
+
+(string fruitName, int fruitAmount) = bob.GetFruit();
+var fruitTuple= bob.GetFruit();
+Fruit fruple = bob.GetFruit();
+Console.WriteLine($"{fruitName} cost {fruitAmount:C}");
+Console.WriteLine($"{fruitTuple.Name} cost {fruitTuple.Dollar:C}");
+
+Fruit apple = ("Apple", 12);
+
+Console.WriteLine(format: "{0}, {1}", apple.Name, apple.Number);

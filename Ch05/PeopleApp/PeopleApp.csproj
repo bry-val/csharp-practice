@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\packtlibrarynetstandard2\packtlibrarynetstandard2.csproj" />
+    <ProjectReference Include="..\PacktLibraryModern\PacktLibraryModern.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
