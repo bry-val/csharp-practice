@@ -1,12 +1,13 @@
 namespace Packt.Shared;
 
-public class Person : object
+public partial class Person : object
 {
     #region Fields: Data or state for this person.
 
     public string? Name;
     public DateTimeOffset Born;
-    public WondersOfTheAncientWorld FavoriteWonder;
+    //moved to PersonAutoGen.cs
+    // public WondersOfTheAncientWorld FavoriteWonder;
     public WondersOfTheAncientWorld BucketList;
     public List<Person> Children = [];
     public const string Species = "Homo Sapien";
@@ -42,7 +43,7 @@ public class Person : object
     }
     public string FavWonder()
     {
-        return $"{this.Name}'s favorite wonder is {this.FavoriteWonder}. Its integer is {(int)this.FavoriteWonder}";
+        return $"{Name}'s favorite wonder is {FavoriteWorldWonder}. Its integer is {(int)FavoriteWorldWonder}";
     }
 
     public void WriteToConsole()
@@ -61,12 +62,43 @@ public class Person : object
         return $"His name was {name}, he was {height} inches tall. Was he great? {great}";
     }
 
+    //Method with a local function
+    public static int Factorial(int number)
+    {
+        if (number < 0)
+        {
+            throw new ArgumentOutOfRangeException();
+        }
+        return localFactorial(number);
+
+        int localFactorial(int localNumber)
+        {
+            if (localNumber == 0) return 1;
+            return localNumber * localFactorial(localNumber - 1);
+        }
+    }
+
     //Tuple practice
     public (string Name, int Dollar) GetFruit()
     {
         return (Name: "Apples", Dollar: 20);
     }
 
+    //Deconstructor practice
+    public void Deconstruct(out string? name, out DateTimeOffset dob)
+    {
+        name = Name;
+        dob = Born;
+    }
+
+    public void Deconstruct(out string? name, out DateTimeOffset dob, out WondersOfTheAncientWorld favorite)
+    {
+        name = Name;
+        dob = Born;
+        favorite = FavoriteWorldWonder;
+    }
+
     #endregion
+    
 }
 
